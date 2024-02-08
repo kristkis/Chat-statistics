@@ -1,0 +1,46 @@
+{
+ "name": "Тест",
+ "type": "personal_chat",
+ "id": 1,
+ "messages": [
+  {
+   "id": 1,
+   "type": "message",
+   "date": "2017-12-20T22:06:36",
+   "date_unixtime": "1513796796",
+   "from": "Тест",
+   "from_id": "",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "❤",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 2,
+   "type": "message",
+   "date": "2017-12-20T22:07:13",
+   "date_unixtime": "1513796833",
+   "from": "Тест",
+   "from_id": "",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🐔",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 4,
+   "type": "message",
+   "date": "2017-12-20T22:07:17",
+   "date_unixtime": "1513796837",
+   "from": "Тест",
+   "from_id": "",
+   "text": "Ты"
+    }
+   ]
+}
